@@ -1,1 +1,1 @@
-# network-watcher
+# network-telegram-watcher
